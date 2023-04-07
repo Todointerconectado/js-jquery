@@ -17,9 +17,3 @@ function confettiFY() {
 }
 
 btn.addEventListener('click', confettiFY);
-
-
-
-
-
-

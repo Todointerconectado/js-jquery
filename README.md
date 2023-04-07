@@ -27,7 +27,7 @@
 ## Acceso a las resoluciones
 
 Para acceder a la pagina principal tenemos que ir a: <br>
-[https://todointerconectado.com/javascript-jquery](https://todointerconectado.com/javascript-jquery) <br>
+[https://todointerconectado.com/js-jquery](https://todointerconectado.com/js-jquery) <br>
 
 ### Para acceder a cada ejercicio
 
