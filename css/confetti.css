@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    font-size: 65.5%;
+}
+
+.body {
+    width: 100%;
+    height: 100%;
+    background: bisque;
+}
+
+.container {
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.build-Confetti {
+    margin-bottom: 10px;
+    display: block;
+    background: blue;
+    color: white;
+    
+    transition: 
+        box-shadow ease 300ms,
+        background ease 300ms,
+        color      ease 300ms
+    ;
+}
+
+.build-Confetti:hover {
+    box-shadow: 1px 1px 5px rgb(0, 0, 0, .7);
+    background: white;
+    color: blue;
+}
+
+.custom_canvas-Confetti {
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, .6);
+    background: white;
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    max-height: 300px;
+}
+
+.inicio-Confetti {
+    border: 2px solid gray;
+    border-radius: 50px;
+    padding: .5rem;
+    background: white;
+    color: gray;
+    margin-top: 10px;
+    list-style: none;
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    transition: 
+        box-shadow ease 300ms,
+        background ease 300ms,
+        color ease 300ms;
+}
+
+
+.inicio-Confetti:hover {
+    box-shadow: 1px 1px 5px rgb(0, 0, 0, .7);
+    background: gray;
+    color: white;
+}
