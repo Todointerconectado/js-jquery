@@ -17,12 +17,12 @@
 > * `js`         para el JavaScript.
 
 > 2. Para subir la resolución del ejercicio seleccionado genera un `merge` o un `PULL REQUEST` de la siguiente manera: <br>
-> **`A.`** El fichero de código debe situarse dentro del directorio del reto, en la carpeta correspondiente al lenguaje de programación utilizado. <br><br>
-> **`B.`** Por ejemplo, si has resuelto el reto `#1` y tu usuario de GitHub se llama Todointerconectado, tu corrección deberá estar en: 
+> - [ ] **`A.`**  El fichero de código debe situarse dentro del directorio del ejercicio, en la carpeta correspondiente al lenguaje de programación utilizado. <br><br>
+> - [ ] **`B.`** Por ejemplo, si has resuelto el ejercicio `#1` y tu usuario de GitHub se llama Todointerconectado, tu corrección deberá estar en: 
 > **`ejercicios/ejercicios1.html`** **`css/ejercicios1.css`** **`js/ejercicios1.js`** <br><br>
-> **`C.`** El título del `merge` o de la `Pull Request` deben seguir este formato: <br>
+> - [ ] **`C.`** El título del `merge` o de la `Pull Request` deben seguir este formato: <br>
 **`"Resolución ejercicio #[número] - [Nombre-usuario-GitHub]"`**. <br><br>
-> **`D.`** En el ejemplo anterior sería: **`"Resolución ejercicio #1 - Todointerconectado"`**. <br>
+> - [ ] **`D.`** En el ejemplo anterior sería: **`"Resolución ejercicio #1 - Todointerconectado"`**. <br>
 
 ## Acceso a las resoluciones
 
