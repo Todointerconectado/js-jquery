@@ -1,8 +1,19 @@
 let btn    = document.querySelector('.build-Confetti');
 let canvas = document.querySelector('.custom_canvas-Confetti');
-
-
 const jsConfetti = new JSConfetti({ canvas });
+
+// JQuery
+$(function() {
+    $(".build-Confetti").css({
+        border: "blue",
+        borderRadius: "50px",
+        padding: "10px 15px",
+        fontSize: "2rem",
+        fontWeight: "bolder",
+        letterSpacing: "2px",
+        cursor: "pointer",
+    });
+});
 
 
 function confettiFY() {
@@ -15,5 +26,4 @@ function confettiFY() {
         });
     }, 0)
 }
-
 btn.addEventListener('click', confettiFY);
