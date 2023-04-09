@@ -38,4 +38,6 @@ Por ejemplo para la resolucion `#numero` con la siguiente url: <br>
 - `01` [https://todointerconectado.com/js-jquery/ejercicios/ejercicio1.html](https://todointerconectado.com/js-jquery/ejercicios/ejercicio1.html)
 - `02` [https://todointerconectado.com/js-jquery/ejercicios/ejercicio2.html](https://todointerconectado.com/js-jquery/ejercicios/ejercicio2.html)
 - `03` [https://todointerconectado.com/js-jquery/ejercicios/ejercicio3.html](https://todointerconectado.com/js-jquery/ejercicios/ejercicio3.html)
+- `04` [https://todointerconectado.com/js-jquery/ejercicios/ejercicio4.html](https://todointerconectado.com/js-jquery/ejercicios/ejercicio4.html)
+- `05` [ejercicio5.js](./js/ejercicio5.js)
 - _etc..._
