@@ -36,5 +36,7 @@
         "skypack",
         "Subir",
         "toma"
-    ]
+    ],
+    "editor.stickyScroll.enabled": true,
+    "editor.cursorSmoothCaretAnimation": "on"
 }
