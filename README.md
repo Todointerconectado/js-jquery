@@ -1,15 +1,16 @@
 ### <h1 align="center">JavaScript avanzado & Jquery</h1>
 
+[![GitHub forks](https://img.shields.io/github/forks/Todointerconectado/js-jquery?logo=github)](https://github.com/Todointerconectado/js-jquery/fork)
 [![license Apache-2.0](https://shields.io/badge/license-Apache--2.0-blue)](https://github.com/Todointerconectado/js-jquery/blob/main/LICENSE)
 [![Code of Conduct](https://img.shields.io/badge/CODE%20OF%20CONDUCT-2.0-blue)](https://github.com/Todointerconectado/js-jquery/blob/main/CODE_OF_CONDUCT.md)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-blue.svg?logo=github)](./CONTRIBUTING.md)
+[![GitHub followers](https://img.shields.io/github/followers/Todointerconectado?logo=github)](#)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Todointerconectado/js-jquery?logo=github)](#)
 [![GitHub NE Network](https://img.shields.io/badge/NE-Network-blue?logo=github)](https://github.com/Todointerconectado/js-jquery/network)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Todointerconectado/js-jquery?color=blue&logo=github)](https://github.com/Todointerconectado/js-jquery/pulls)
-[![GitHub forks](https://img.shields.io/github/forks/Todointerconectado/js-jquery?logo=github)](https://github.com/Todointerconectado/js-jquery/fork)
-[![GitHub followers](https://img.shields.io/github/followers/Todointerconectado?logo=github)](#)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Todointerconectado/js-jquery?color=blue&logo=github)](https://github.com/Todointerconectado/js-jquery/pulls)
 [![GitHub language count](https://img.shields.io/github/languages/count/Todointerconectado/js-jquery?logo=github)](#)
 [![GitHub top language](https://img.shields.io/github/languages/top/Todointerconectado/js-jquery?logo=JavaScript)](#)
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-blue.svg?logo=github)](./CONTRIBUTING.md)
 
 > Desarrollaremos la **[Guía de ejercicios](/ejercicios.md)**
 
