@@ -50,10 +50,10 @@ Para acceder a la pagina principal tenemos que ir a: <br>
 |Ejercicios|       Acceso directo a la resolución  |
 |:--------:| :------------------------------------ |
 |   `#00`  | [![#00](https://img.shields.io/badge/https%3A%2F%2Ftodointerconectado.com%2Fjs--jquery%2Fejercicios-%2Fconfetti.html-blue?logo=html5)](https://todointerconectado.com/js-jquery/ejercicios/confetti.html) |
-|   `#01`  | [![#01](https://img.shields.io/badge/https%3A%2F%2Ftodointerconectado.com%2Fjs--jquery%2Fejercicios-%2Fejercicio01.html-blue?logo=html5)](https://todointerconectado.com/js-jquery/ejercicios/ejercicio1.html) |
-|   `#02`  | [![#02](https://img.shields.io/badge/https%3A%2F%2Ftodointerconectado.com%2Fjs--jquery%2Fejercicios-%2Fejercicio02.html-blue?logo=html5)](https://todointerconectado.com/js-jquery/ejercicios/ejercicio2.html) |
-|   `#03`  | [![#03](https://img.shields.io/badge/https%3A%2F%2Ftodointerconectado.com%2Fjs--jquery%2Fejercicios-%2Fejercicio03.html-blue?logo=html5)](https://todointerconectado.com/js-jquery/ejercicios/ejercicio3.html) |
-|   `#04`  | [![#04](https://img.shields.io/badge/https%3A%2F%2Ftodointerconectado.com%2Fjs--jquery%2Fejercicios-%2Fejercicio04.html-blue?logo=html5)](https://todointerconectado.com/js-jquery/ejercicios/ejercicio4.html) |
+|   `#01`  | [![#01](https://img.shields.io/badge/Ejercicio-01-blue?logo=javascript)](./js/ejercicio1.js) |
+|   `#02`  | [![#02](https://img.shields.io/badge/Ejercicio-02-blue?logo=javascript)](./js/ejercicio2.js) |
+|   `#03`  | [![#03](https://img.shields.io/badge/Ejercicio-03-blue?logo=javascript)](./js/ejercicio3.js) |
+|   `#04`  | [![#04](https://img.shields.io/badge/Ejercicio-04-blue?logo=javascript)](./js/ejercicio4.js) |
 |   `#05`  | [![#05](https://img.shields.io/badge/Ejercicio-05-blue?logo=javascript)](./js/ejercicio5.js) |
 |   `#06`  | [![#06](https://img.shields.io/badge/https%3A%2F%2Ftodointerconectado.com%2Fjs--jquery%2Fejercicios-%2Fejercicio06.html-blue?logo=html5)](https://todointerconectado.com/js-jquery/ejercicios/ejercicio6.html) [![#06](https://img.shields.io/badge/Ejercicio-06-blue?logo=javascript)](./js/ejercicio6.js) [![#06](https://img.shields.io/badge/Ejercicio-06-blue?logo=css3&logoColor=rgb%28102%2C%20188%2C%20249%29)](./css/ejercicio6.css) |
 | _etc..._ | Content Cell  |
